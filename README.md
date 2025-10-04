@@ -2,7 +2,7 @@
 
 <div align="center">
   
-## **BE Developer | [Infoteam](https://github.com/gsainfoteam) | 매일 1%씩 성장합니다!**
+## **BE Developer | Infoteam | 매일 꾸준히 1%씩 성장합니다!**
 
 <a href="mailto:yejun_lee@gm.gist.ac.kr">
   <img src="https://img.shields.io/badge/GIST Mail-C4473C?style=for-the-badge&logo=mail.ru&logoColor=white">
@@ -19,6 +19,7 @@
 <div align="center">
   
 **Gwangju Institute of Science and Technology (GIST)**  <sub>2025.03.01 ~</sub>
+**Backend developer at [Infoteam](https://github.com/gsainfoteam)** <sub>2025.09.29 ~</sub>
 
 </div>
 
