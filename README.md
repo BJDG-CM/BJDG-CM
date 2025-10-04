@@ -2,8 +2,6 @@
 
 <div align="center">
 
-# 😊Yejun Lee😊
-
 **Full-Stack Developer | GIST | 매일 1%씩 성장합니다!**
 
 <a href="mailto:yejun_lee@gm.gist.ac.kr">
