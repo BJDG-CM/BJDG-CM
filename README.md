@@ -17,7 +17,10 @@
 ---
 
 ## 🏫 Education
+
+<div align="center">
 - Gwangju Institute of Science and Technology (GIST)  <sub>2025.03.01 ~</sub>
+</div>
 
 ---
 
