@@ -14,11 +14,11 @@
 
 ---
 
-## 🏫 Education
-
+## ❗ About Me
 <div align="center">
   
-**Gwangju Institute of Science and Technology (GIST)**  <sub>2025.03.01 ~</sub>
+**Gwangju Institute of Science and Technology (GIST)**  <sub>2025.03.01 ~</sub> 
+
 **Backend developer at [Infoteam](https://github.com/gsainfoteam)** <sub>2025.09.29 ~</sub>
 
 </div>
