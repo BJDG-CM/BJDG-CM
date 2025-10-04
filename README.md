@@ -1,7 +1,6 @@
 [![Yejun's GitHub](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=4&text=Yejun's%20GitHub&fontSize=50&animation=twinkling&fontAlign=73&fontAlignY=38)](https://github.com/BJDG-CM)
 
 <div align="center">
-
 **Full-Stack Developer | GIST | 매일 1%씩 성장합니다!**
 
 <a href="mailto:yejun_lee@gm.gist.ac.kr">
@@ -17,7 +16,7 @@
 ## 🏫 Education
 
 <div align="center">
-- Gwangju Institute of Science and Technology (GIST)  <sub>2025.03.01 ~</sub>
+**Gwangju Institute of Science and Technology (GIST)**  <sub>2025.03.01 ~</sub>
 </div>
 
 ---
