@@ -2,7 +2,7 @@
 
 <div align="center">
   
-## **BE Developer | GIST | 매일 1%씩 성장합니다!**
+## **BE Developer | [Infoteam](https://github.com/gsainfoteam) | 매일 1%씩 성장합니다!**
 
 <a href="mailto:yejun_lee@gm.gist.ac.kr">
   <img src="https://img.shields.io/badge/GIST Mail-C4473C?style=for-the-badge&logo=mail.ru&logoColor=white">
