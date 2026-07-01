@@ -9,7 +9,7 @@
 </a>
 <a href="mailto:yejuneric@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
 <a href="https://github.com/BJDG-CM" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
-<a href="https://bjdg-cm.github.io/PersonalProfilePage/" target="_blank">
+<a href="https://bjdg-cm.github.io/Homepage/" target="_blank">
   <img src="https://img.shields.io/badge/Profile Page-2ECC71?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
 
